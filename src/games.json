@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://images.unsplash.com/photo-1542435503-956c469947f6?auto=format&fit=crop&q=80&w=400&h=300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "url": "https://slopegame.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?auto=format&fit=crop&q=80&w=400&h=300",
+    "category": "Arcade"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "url": "https://tetris.com/play-tetris",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&q=80&w=400&h=300",
+    "category": "Retro"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "url": "https://flappybird.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=400&h=300",
+    "category": "Arcade"
+  },
+  {
+    "id": "pacman",
+    "title": "Google Pacman",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&q=80&w=400&h=300",
+    "category": "Retro"
+  },
+  {
+    "id": "chess",
+    "title": "Lichess",
+    "url": "https://lichess.org/tv/frame",
+    "thumbnail": "https://images.unsplash.com/photo-1528819622765-d6bcf132f793?auto=format&fit=crop&q=80&w=400&h=300",
+    "category": "Strategy"
+  }
+]
